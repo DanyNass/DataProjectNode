@@ -1,0 +1,30 @@
+
+
+#menu-social>li {
+    display: inline-block;
+}
+
+#menu-social>li>a {
+    display: block;
+}
+
+.social-icon {
+  font-size: 32pt;
+}
+.social-icon:hover {
+  color: #179bdc;  
+}
+
+#energyway a {
+  width: 300px;
+  height: 180px;
+}
+
+.energy-way-bg {
+background-image: url('../assets/images/energy-way-logo-grigio.png');
+background-size: cover;
+background-position: center center;
+}
+.energy-way-bg:hover {
+background-image: url('../assets/images/logo-energyway-azzurro.png')
+}

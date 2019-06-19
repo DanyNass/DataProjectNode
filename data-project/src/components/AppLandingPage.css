@@ -1,0 +1,27 @@
+.functions-bg {
+	background-image: url('../assets/images/functions_bg.jpg');
+}
+.landing-page {
+	height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.opacity-filter {
+  background-color: #00000090;
+  height: 100%;
+}
+
+#home_button {
+	background-color: white;
+  color: #179bdc;
+  font-size: 1.6em;
+}
+#home_button:hover {
+  background-color: #179bdc;
+  color: #fff;
+}
