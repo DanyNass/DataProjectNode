@@ -1,0 +1,5 @@
+export const GET_DATA = 'GET_DATA'
+export const DELETE_DATA = 'DELETE_DATA'
+export const SET_FILTER_AREA = 'SET_FILTER_AREA'
+export const SET_FILTER_OBJECT = 'SET_FILTER_OBJECT'
+export const SET_HINT_POINT = 'SET_HINT_POINT'

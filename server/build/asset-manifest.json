@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2192dcc.chunk.css",
+    "main.js": "/static/js/main.69f3df09.chunk.js",
+    "main.js.map": "/static/js/main.69f3df09.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.d95f52b9.chunk.css": "/static/css/2.d95f52b9.chunk.css",
+    "static/js/2.473b4d88.chunk.js": "/static/js/2.473b4d88.chunk.js",
+    "static/js/2.473b4d88.chunk.js.map": "/static/js/2.473b4d88.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.304a764fa358dab710f67c57c97dfacd.js": "/precache-manifest.304a764fa358dab710f67c57c97dfacd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d95f52b9.chunk.css.map": "/static/css/2.d95f52b9.chunk.css.map",
+    "static/css/main.d2192dcc.chunk.css.map": "/static/css/main.d2192dcc.chunk.css.map",
+    "static/media/AppFooter.css": "/static/media/logo-energyway-azzurro.2109466b.png",
+    "static/media/AppLandingPage.css": "/static/media/functions_bg.abbd3eb6.jpg"
+  }
+}
